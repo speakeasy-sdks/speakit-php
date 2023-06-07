@@ -8,6 +8,12 @@ declare(strict_types=1);
 
 namespace speakit\Petstore;
 
+/**
+ * Petstore
+ * 
+ * @package speakit\Petstore
+ * @access public
+ */
 class Petstore
 {
 	public const SERVERS = [
