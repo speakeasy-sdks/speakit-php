@@ -28,6 +28,13 @@ src/Models/Operations/ShowPetByIdRequest.php
 src/Models/Operations/ShowPetByIdResponse.php
 src/Models/Shared/Error.php
 src/Models/Shared/Pet.php
-docs/petstore/README.md
-docs/pets/README.md
+docs/sdks/petstore/README.md
+docs/sdks/pets/README.md
 USAGE.md
+docs/models/operations/CreatePetsResponse.md
+docs/models/operations/ListPetsRequest.md
+docs/models/operations/ListPetsResponse.md
+docs/models/operations/ShowPetByIdRequest.md
+docs/models/operations/ShowPetByIdResponse.md
+docs/models/shared/Error.md
+docs/models/shared/Pet.md
